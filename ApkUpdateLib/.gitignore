@@ -1,0 +1,22 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+#要忽略的文件
+ .classpath
+ project.properties
+ *.project
+ .settings/
+ *.iml
+ *.jar
+ *.bat
+ *.bat
+ .idea/
+ *.prefs
+ gradle/
+ *.apk
+bin/
+gen/
